@@ -1,5 +1,14 @@
 This is an example To Do List application, build with Next.js bootstrap.
 
+Features:
+- add an item
+- remove an item
+- edit an item
+
+Future Features:
+- read from and write to local storage
+- design updates
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
